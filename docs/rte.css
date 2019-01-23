@@ -1,0 +1,12 @@
+/**
+ * @author AOT
+ * @license DoWhatTheFuckYouWant Public License
+ * @version 0.1
+ */
+ 
+html {
+  -webkit-transform: rotateY(180deg) rotateX(180deg);
+  -moz-transform: rotateY(180deg) rotateX(180deg);
+  -o-transform: rotateY(180deg) rotateX(180deg);
+  transform: rotateY(180deg) rotateX(180deg);
+}
