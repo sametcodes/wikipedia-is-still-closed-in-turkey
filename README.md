@@ -1,1 +1,1 @@
-Hi there. Today **4th September 2018**. Wikipedia is still closed **in Turkey**.
+Hi there. Today **23th January 2019**. Wikipedia is still closed **in Turkey**.
